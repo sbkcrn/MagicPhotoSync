@@ -60,7 +60,7 @@ An Android app to sync and display Magic Photos from your Rabbit R1 device, with
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/MagicPhotoSync.git
+git clone https://github.com/sbkcrn/MagicPhotoSync.git
 cd MagicPhotoSync
 
 # Build debug APK
