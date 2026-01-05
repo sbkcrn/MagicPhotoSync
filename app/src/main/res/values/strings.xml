@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magic Photos</string>
+    <string name="widget_name">Magic Photo</string>
+    <string name="widget_description">Display your latest Magic Photos on your home screen</string>
+    
+    <!-- Login -->
+    <string name="login_title">Sign in to Rabbit Hole</string>
+    <string name="login_subtitle">Access your Magic Photos</string>
+    <string name="login_button">Sign In</string>
+    <string name="logging_in">Signing in…</string>
+    
+    <!-- Gallery -->
+    <string name="gallery_title">Magic Photos</string>
+    <string name="gallery_empty">No Magic Photos yet</string>
+    <string name="gallery_empty_subtitle">Take photos with your R1 to see them here</string>
+    
+    <!-- Detail -->
+    <string name="original_photo">Original</string>
+    <string name="ai_photo">Magic</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="last_synced">Last synced: %s</string>
+    <string name="never_synced">Never synced</string>
+    <string name="auto_sync">Auto Sync</string>
+    <string name="auto_sync_summary">Automatically sync photos in background</string>
+    <string name="sync_frequency">Sync Frequency</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="clear_cache_summary">Remove downloaded photos</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="about">About</string>
+    <string name="version">Version %s</string>
+    
+    <!-- Sync -->
+    <string name="syncing">Syncing…</string>
+    <string name="sync_complete">Sync complete</string>
+    <string name="sync_error">Sync failed</string>
+    <string name="photos_synced">%d photos synced</string>
+    
+    <!-- Errors -->
+    <string name="error_network">Network error. Check your connection.</string>
+    <string name="error_auth">Authentication failed. Please sign in again.</string>
+    <string name="error_unknown">Something went wrong</string>
+    <string name="retry">Retry</string>
+</resources>
+

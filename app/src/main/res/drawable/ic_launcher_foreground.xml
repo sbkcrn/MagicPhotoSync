@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Carrot body - orange -->
+    <path
+        android:fillColor="#FF4D06"
+        android:pathData="M54,28 
+                         C58,28 62,30 64,34
+                         L68,48
+                         L70,62
+                         L68,72
+                         L62,82
+                         L54,88
+                         L46,82
+                         L40,72
+                         L38,62
+                         L40,48
+                         L44,34
+                         C46,30 50,28 54,28
+                         Z"/>
+    
+    <!-- Carrot highlight -->
+    <path
+        android:fillColor="#FF6B2C"
+        android:pathData="M50,32
+                         C52,32 54,33 55,35
+                         L57,45
+                         L58,55
+                         L56,65
+                         L52,75
+                         L50,78
+                         L48,75
+                         L46,68
+                         L45,58
+                         L46,45
+                         L48,35
+                         C49,33 49,32 50,32
+                         Z"/>
+    
+    <!-- Carrot leaves - green -->
+    <path
+        android:fillColor="#228B22"
+        android:pathData="M54,28
+                         L52,18
+                         L48,12
+                         L44,8
+                         L48,14
+                         L50,22
+                         L54,28
+                         Z"/>
+    
+    <path
+        android:fillColor="#228B22"
+        android:pathData="M54,28
+                         L56,18
+                         L60,12
+                         L64,8
+                         L60,14
+                         L58,22
+                         L54,28
+                         Z"/>
+    
+    <path
+        android:fillColor="#32CD32"
+        android:pathData="M54,28
+                         L54,16
+                         L54,10
+                         L54,6
+                         L54,10
+                         L54,18
+                         L54,28
+                         Z"/>
+    
+    <!-- Additional leaf detail -->
+    <path
+        android:fillColor="#228B22"
+        android:pathData="M50,26
+                         L46,20
+                         L42,16
+                         L46,18
+                         L50,24
+                         L52,28
+                         Z"/>
+    
+    <path
+        android:fillColor="#228B22"
+        android:pathData="M58,26
+                         L62,20
+                         L66,16
+                         L62,18
+                         L58,24
+                         L56,28
+                         Z"/>
+    
+</vector>
